@@ -12,7 +12,7 @@ horrible(best) cheat for the game bomb party on [jklm.fun](https://jklm.fun)
 3. hover your mouse over the prompt when its your turn and click f4
 4. then the script should go mouse your mouse to the chat box, open it, find a random word from the wordlist.txt file, type it in with a very fast speed(not instant bc thats really easy to get cheat accused and its literally like copy and paste speed) then it clicks enter and your goated
 # additonal features
-1. if you want to type words in chat, click f9 over the chat bar where you type msgs, then hover over the prompt and it should type a word in the chat area
+1. if you want to type words in chat, click f9 over the chat bar where you type msgs, then hover over the prompt and click f8 and it should type a word in the chat area
 2. typing speed config is where it says interval=0.07, change it to what ever you want or delete if you want instant typing
 
 # warning
